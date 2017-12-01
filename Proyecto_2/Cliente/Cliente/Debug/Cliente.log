@@ -1,0 +1,7 @@
+﻿  Cliente.cpp
+  Hilo.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Cliente.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Cliente.vcxproj -> C:\Users\José Andrés\Desktop\Proyectos - C++\TareaProgramada2\Proyecto_2\Cliente\Debug\Cliente.exe
+  Cliente.vcxproj -> C:\Users\José Andrés\Desktop\Proyectos - C++\TareaProgramada2\Proyecto_2\Cliente\Debug\Cliente.pdb (Partial PDB)

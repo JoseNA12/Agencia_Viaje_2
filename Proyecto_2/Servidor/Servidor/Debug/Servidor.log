@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\jose_\documents\tec\2016\cursos - ll semestre 2016\estructuras de datos\proyectos - c++\tareaprogramada2\proyecto_2\servidor\servidor\main.cpp(1233): warning C4715: 'TareaProgramada2::ConsultarPrecioProducto': no todas las rutas de acceso de control devuelven un valor
+c:\users\jose_\documents\tec\2016\cursos - ll semestre 2016\estructuras de datos\proyectos - c++\tareaprogramada2\proyecto_2\servidor\servidor\main.cpp(1893): warning C4715: 'TareaProgramada2::RealizarReservacionHotel1': no todas las rutas de acceso de control devuelven un valor
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Servidor.vcxproj -> C:\Users\jose_\Documents\TEC\2016\Cursos - ll Semestre 2016\Estructuras de Datos\Proyectos - C++\TareaProgramada2\Proyecto_2\Servidor\Debug\Servidor.exe
